@@ -1,8 +1,11 @@
-# tetris_informatica
-Python3 Tetris spel - opdracht voor VWO-6 Informatica
+# Python3 Tetris spel - opdracht voor VWO-6 Informatica
 
 ### Benodige python modules
-pygame
+Om te installeren
+
+$ pip install pygame
+
+
 
 
 ### Basis Tetris spel aangepast
