@@ -6,6 +6,8 @@ Om te installeren
 $ pip install pygame
 
 
+### Video - video.mp4
+We hebben ook een video opgenomen zodat je kunt zien hoe het geworden is
 
 
 ### Basis Tetris spel aangepast
